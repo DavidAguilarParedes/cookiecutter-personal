@@ -76,6 +76,10 @@ cookiecutter https://github.com/jvelezmagic/cookiecutter-conda-data-science
         └── visualization  <- Scripts to create exploratory and results oriented visualizations.
             └── visualize.py
 
+## Crear ambiente de cookiecutter
+
+conda env create --file environment.yml
+
 ## Contributing guide
 
 All contributions, bug reports, bug fixes, documentation improvements, enhancements and ideas are welcome.
